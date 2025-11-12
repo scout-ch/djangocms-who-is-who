@@ -6,6 +6,6 @@ It serves soley as a connecting plugin and manages only the connection informati
 
 ## Installation
 
-- run `pip install djangocms-who-is-who`
+- run `pip install scout-ch-djangocms-who-is-who`
 - add `djangocms_who_is_who` to your `INSTALLED_APPS`
 - run `python manage.py migrate djangocms_who_is_who`
