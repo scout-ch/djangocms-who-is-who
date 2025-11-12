@@ -1,2 +1,3 @@
 include README.md
 recursive-include djangocms_who_is_who/templates *
+recursive-include djangocms_who_is_who/static *

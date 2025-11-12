@@ -14,4 +14,4 @@ dependencies = [
 include-package-data  = true
 
 [tool.setuptools.package-data]
-djangocms_who_is_who = ["templates/djangocms_who_is_who/*.jinja"]
+djangocms_who_is_who = ["templates/djangocms_who_is_who/*.jinja", "static/djangocms_who_is_who/js/*.js"]
